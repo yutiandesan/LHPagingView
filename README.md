@@ -1,5 +1,5 @@
 # LHPagingView
 
-/normal.gif
+![type=NormalWidth](/normal.gif) 
 
-/firm.gif
+![type=FirmWidth](/firm.gif) 
